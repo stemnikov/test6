@@ -1,6 +1,6 @@
 ﻿{
-	"gitIsPrivateRepository":"false",
-	"gitURL":"https://github.com/mccarvell",
+	"serverType":"github",
 	"gitEmail":"greg@gregmccarvell.com",
-	"serverType":"github"
+	"gitIsPrivateRepository":"false",
+	"gitURL":"https://github.com/mccarvell"
 }
